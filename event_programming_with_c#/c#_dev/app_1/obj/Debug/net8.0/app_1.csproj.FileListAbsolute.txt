@@ -1,0 +1,15 @@
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/app_1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/app_1.AssemblyInfoInputs.cache
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/app_1.AssemblyInfo.cs
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/app_1.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/app_1.sourcelink.json
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/bin/Debug/net8.0/app_1
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/bin/Debug/net8.0/app_1.deps.json
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/bin/Debug/net8.0/app_1.runtimeconfig.json
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/bin/Debug/net8.0/app_1.dll
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/bin/Debug/net8.0/app_1.pdb
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/app_1.dll
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/refint/app_1.dll
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/app_1.pdb
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/app_1.genruntimeconfig.cache
+/mnt/c/Users/Meareg/Desktop/repos/IT-CLASS/event_programming_with_c#/c#_dev/app_1/obj/Debug/net8.0/ref/app_1.dll
